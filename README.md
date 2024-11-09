@@ -93,6 +93,6 @@
 
 ###
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*IjwqslkWZDHTMK9Y.gif" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif" alt="Snake animation" />
 
 ###

@@ -1,4 +1,4 @@
-<h2 align="center">👋 Software Engineering student | MERN Stack Developer. Passionate about building responsive web apps, solving complex problems, and exploring cybersecurity.</h2>
+<h2 align="center">👋 Software Engineering student | MERN Stack Developer. Passionate about building responsive web apps and solving complex problems</h2>
 
 ###
 
